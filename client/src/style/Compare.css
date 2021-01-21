@@ -1,0 +1,59 @@
+/* .graphForOtherData {
+  height: 300px;
+  width: 600px;
+} */
+
+.compareColumn {
+  float: left;
+  width: 40%;
+  margin-left: 150px;
+  margin-top: 100px;
+}
+
+.compareRow {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.compareBackground {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-height: 800px;
+  overflow: hidden;
+}
+
+.comparePositionSearch {
+  position: absolute;
+  top: 700px;
+  right: 44%;
+  width: 200px;
+  height: 50px;
+  border: 3px solid #ad213f;
+  background-color: gold;
+  border-radius: 3%;
+}
+
+.comparePositionSelect1 {
+  position: absolute;
+  top: 600px;
+  left: 30%;
+  width: 200px;
+  height: 50px;
+  border: 3px solid #ad213f;
+  /* background-color: gold; */
+  border-radius: 30%;
+}
+
+.comparePositionSelect2 {
+  position: absolute;
+  top: 600px;
+  right: 30%;
+  width: 200px;
+  height: 50px;
+  border: 3px solid #ad213f;
+  /* background-color: gold; */
+  border-radius: 30%;
+}

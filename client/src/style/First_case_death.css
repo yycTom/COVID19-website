@@ -1,0 +1,40 @@
+.firstBackground {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  /* max-height: 700px; */
+  overflow: hidden;
+}
+
+.positionSelect {
+  position: absolute;
+  top: 200px;
+  right: 45%;
+  width: 200px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 3%;
+}
+
+.firstPositionSearch {
+  position: absolute;
+  top: 300px;
+  right: 45%;
+  width: 200px;
+  height: 50px;
+  border: 3px solid #ad213f;
+  background-color: gold;
+  border-radius: 3%;
+}
+
+.result {
+  position: absolute;
+  top: 300px;
+  margin-top: 300px;
+  margin-left: 450px;
+  margin-right: 100px;
+  font-size: 30px;
+  font-weight: 500;
+  background-color: white;
+}
